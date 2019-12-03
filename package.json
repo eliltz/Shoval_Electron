@@ -1,0 +1,22 @@
+{
+  "name": "shoval_electorn",
+  "version": "1.0.0",
+  "description": "Shoval Q&A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliltz/shoval_electron.git"
+  },
+  "keywords": [
+    "shoval"
+  ],
+  "author": "Eli Tzalah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliltz/shoval_electron/issues"
+  },
+  "homepage": "https://github.com/eliltz/shoval_electron#readme"
+}
